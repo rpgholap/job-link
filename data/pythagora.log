@@ -1,0 +1,673 @@
+2025-11-27T18:33:35.213Z INFO SharedStateManager initialized
+2025-11-27T18:33:35.245Z INFO Is remote: false
+2025-11-27T18:33:35.246Z INFO Starting Local. Installation path: e:\CDAC PREP 2025\CDAC\WPT
+2025-11-27T18:33:35.247Z INFO [MainProvider] Creating new MainProvider instance...
+2025-11-27T18:33:35.248Z INFO [TabsManager] Code view listener set up at initialization
+2025-11-27T18:33:35.250Z INFO Installation path exists: e:\CDAC PREP 2025\CDAC\WPT
+2025-11-27T18:33:35.251Z INFO Initializing database with URL: file:e:\CDAC PREP 2025\CDAC\WPT\pythagora-core\data\database\pythagora.db
+2025-11-27T18:33:35.274Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-11-27T18:33:35.275Z INFO Database initialized successfully
+2025-11-27T18:33:35.294Z INFO [Migration] Checking for database migration...
+2025-11-27T18:33:35.881Z INFO [Migration] No migration needed
+2025-11-27T18:34:15.165Z INFO [TabsManager] First file opened, triggering split view
+2025-11-27T18:34:15.249Z INFO [MainProvider] First file opened, creating split view
+2025-11-27T18:34:27.671Z INFO [TabsManager] First file opened, triggering split view
+2025-11-27T18:34:27.672Z INFO [MainProvider] First file opened, creating split view
+2025-11-27T18:34:35.111Z INFO [TabsManager] First file opened, triggering split view
+2025-11-27T18:34:35.112Z INFO [MainProvider] First file opened, creating split view
+2025-11-27T18:34:37.464Z INFO [TabsManager] First file opened, triggering split view
+2025-11-27T18:34:37.465Z INFO [MainProvider] First file opened, creating split view
+2025-11-27T18:34:47.817Z INFO [TabsManager] First file opened, triggering split view
+2025-11-27T18:34:47.817Z INFO [MainProvider] First file opened, creating split view
+2025-11-27T18:34:52.924Z INFO [TabsManager] First file opened, triggering split view
+2025-11-27T18:34:52.928Z INFO [MainProvider] First file opened, creating split view
+2025-11-27T18:34:55.289Z INFO [TabsManager] First file opened, triggering split view
+2025-11-27T18:34:55.290Z INFO [MainProvider] First file opened, creating split view
+2025-11-27T18:34:56.225Z INFO [TabsManager] First file opened, triggering split view
+2025-11-27T18:34:56.225Z INFO [MainProvider] First file opened, creating split view
+2025-11-27T18:35:00.355Z INFO [TabsManager] First file opened, triggering split view
+2025-11-27T18:35:03.191Z INFO [MainProvider] First file opened, creating split view
+2025-11-27T18:35:05.038Z INFO [TabsManager] First file opened, triggering split view
+2025-11-27T18:35:05.039Z INFO [MainProvider] First file opened, creating split view
+2025-11-27T18:35:08.638Z INFO [TabsManager] First file opened, triggering split view
+2025-11-27T18:35:08.638Z INFO [MainProvider] First file opened, creating split view
+2025-11-27T18:35:22.629Z INFO [TabsManager] First file opened, triggering split view
+2025-11-27T18:35:22.737Z INFO [MainProvider] First file opened, creating split view
+2025-11-27T18:35:24.897Z INFO [TabsManager] First file opened, triggering split view
+2025-11-27T18:35:25.118Z INFO [MainProvider] First file opened, creating split view
+2025-11-27T18:58:41.931Z INFO [TabsManager] First file opened, triggering split view
+2025-11-27T18:58:41.956Z INFO [MainProvider] First file opened, creating split view
+2025-11-27T20:22:24.518Z INFO Closing entire Pythagora extension...
+2025-11-27T20:22:24.858Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new ij (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120021)
+	at JS.U (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124631)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122125)
+	at Zy.g (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:41133)
+	at Zy.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:40637)
+	at Object.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:210:101000)
+	at closeEntirePythagoraExtension (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\extension.js:560:31)
+	at Object.deactivate (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\extension.js:427:15)
+	at kX.eb (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+	at file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+	at Array.map (<anonymous>)
+	at kX.$ (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+	at kX.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+	at nN.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Fs (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+	at MessagePortMain.<anonymous> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+	at Object.topLevelDomainCallback (node:domain:161:15)
+	at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+Extra context: {
+  "message": "Canceled"
+}
+2025-11-28T08:22:32.337Z INFO SharedStateManager initialized
+2025-11-28T08:22:32.371Z INFO Is remote: false
+2025-11-28T08:22:32.372Z INFO Starting Local. Installation path: e:\CDAC PREP 2025\CDAC\WPT
+2025-11-28T08:22:32.374Z INFO [MainProvider] Creating new MainProvider instance...
+2025-11-28T08:22:32.376Z INFO [TabsManager] Code view listener set up at initialization
+2025-11-28T08:22:32.378Z INFO Installation path exists: e:\CDAC PREP 2025\CDAC\WPT
+2025-11-28T08:22:32.379Z INFO Initializing database with URL: file:e:\CDAC PREP 2025\CDAC\WPT\pythagora-core\data\database\pythagora.db
+2025-11-28T08:22:32.445Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-11-28T08:22:32.447Z INFO Database initialized successfully
+2025-11-28T08:22:32.449Z INFO [Migration] Checking for database migration...
+2025-11-28T08:22:32.584Z INFO [TabsManager] First file opened, triggering split view
+2025-11-28T08:22:32.585Z INFO [MainProvider] First file opened, creating split view
+2025-11-28T08:22:33.287Z INFO [Migration] No migration needed
+2025-11-28T08:22:46.278Z INFO [TabsManager] First file opened, triggering split view
+2025-11-28T08:22:46.383Z INFO [MainProvider] First file opened, creating split view
+2025-11-28T10:23:39.378Z INFO Closing entire Pythagora extension...
+2025-11-28T10:23:39.450Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new ij (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120021)
+	at JS.U (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124631)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122125)
+	at Zy.g (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:41133)
+	at Zy.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:40637)
+	at Object.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:210:101000)
+	at closeEntirePythagoraExtension (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\extension.js:560:31)
+	at Object.deactivate (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\extension.js:427:15)
+	at kX.eb (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+	at file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+	at Array.map (<anonymous>)
+	at kX.$ (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+	at kX.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+	at nN.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Fs (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+	at MessagePortMain.<anonymous> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+	at Object.topLevelDomainCallback (node:domain:161:15)
+	at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+Extra context: {
+  "message": "Canceled"
+}
+2025-11-28T12:52:53.583Z INFO SharedStateManager initialized
+2025-11-28T12:52:53.660Z INFO Is remote: false
+2025-11-28T12:52:53.661Z INFO Starting Local. Installation path: e:\CDAC PREP 2025\CDAC\WPT
+2025-11-28T12:52:53.662Z INFO [MainProvider] Creating new MainProvider instance...
+2025-11-28T12:52:53.663Z INFO [TabsManager] Code view listener set up at initialization
+2025-11-28T12:52:53.665Z INFO Installation path exists: e:\CDAC PREP 2025\CDAC\WPT
+2025-11-28T12:52:53.666Z INFO Initializing database with URL: file:e:\CDAC PREP 2025\CDAC\WPT\pythagora-core\data\database\pythagora.db
+2025-11-28T12:52:53.672Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-11-28T12:52:53.673Z INFO Database initialized successfully
+2025-11-28T12:52:53.674Z INFO [Migration] Checking for database migration...
+2025-11-28T12:52:54.280Z INFO [Migration] No migration needed
+2025-11-28T13:01:06.542Z INFO Closing entire Pythagora extension...
+2025-11-28T13:01:06.967Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new ij (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120021)
+	at JS.U (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124631)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122125)
+	at Zy.g (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:41133)
+	at Zy.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:40637)
+	at Object.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:210:101000)
+	at closeEntirePythagoraExtension (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\extension.js:560:31)
+	at Object.deactivate (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\extension.js:427:15)
+	at kX.eb (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+	at file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+	at Array.map (<anonymous>)
+	at kX.$ (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+	at kX.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+	at nN.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Fs (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+	at MessagePortMain.<anonymous> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+	at Object.topLevelDomainCallback (node:domain:161:15)
+	at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+Extra context: {
+  "message": "Canceled"
+}
+2025-11-29T09:14:17.151Z INFO SharedStateManager initialized
+2025-11-29T09:14:17.262Z INFO Is remote: false
+2025-11-29T09:14:17.264Z INFO Starting Local. Installation path: e:\CDAC PREP 2025\CDAC\WPT
+2025-11-29T09:14:17.266Z INFO [MainProvider] Creating new MainProvider instance...
+2025-11-29T09:14:17.268Z INFO [TabsManager] Code view listener set up at initialization
+2025-11-29T09:14:17.271Z INFO Installation path exists: e:\CDAC PREP 2025\CDAC\WPT
+2025-11-29T09:14:17.272Z INFO Initializing database with URL: file:e:\CDAC PREP 2025\CDAC\WPT\pythagora-core\data\database\pythagora.db
+2025-11-29T09:14:17.347Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-11-29T09:14:17.348Z INFO Database initialized successfully
+2025-11-29T09:14:17.352Z INFO [Migration] Checking for database migration...
+2025-11-29T09:14:22.367Z INFO [Migration] No migration needed
+2025-11-29T10:14:53.863Z INFO [TabsManager] First file opened, triggering split view
+2025-11-29T10:14:53.911Z INFO [MainProvider] First file opened, creating split view
+2025-11-29T10:17:15.919Z INFO [TabsManager] First file opened, triggering split view
+2025-11-29T10:17:15.985Z INFO [MainProvider] First file opened, creating split view
+2025-11-29T10:17:35.151Z INFO [TabsManager] First file opened, triggering split view
+2025-11-29T10:17:35.153Z INFO [MainProvider] First file opened, creating split view
+2025-11-29T10:35:22.025Z INFO [TabsManager] First file opened, triggering split view
+2025-11-29T10:35:22.091Z INFO [MainProvider] First file opened, creating split view
+2025-11-29T10:35:27.280Z INFO [TabsManager] First file opened, triggering split view
+2025-11-29T10:35:27.281Z INFO [MainProvider] First file opened, creating split view
+2025-11-29T12:17:54.740Z INFO [TabsManager] First file opened, triggering split view
+2025-11-29T12:17:54.832Z INFO [MainProvider] First file opened, creating split view
+2025-11-29T12:18:09.225Z INFO [TabsManager] First file opened, triggering split view
+2025-11-29T12:18:09.225Z INFO [MainProvider] First file opened, creating split view
+2025-11-29T12:19:20.447Z INFO [TabsManager] First file opened, triggering split view
+2025-11-29T12:19:20.447Z INFO [MainProvider] First file opened, creating split view
+2025-11-29T12:19:22.044Z INFO [TabsManager] First file opened, triggering split view
+2025-11-29T12:19:22.084Z INFO [MainProvider] First file opened, creating split view
+2025-11-29T12:19:28.092Z INFO [TabsManager] First file opened, triggering split view
+2025-11-29T12:19:28.092Z INFO [MainProvider] First file opened, creating split view
+2025-11-29T13:37:06.003Z INFO Closing entire Pythagora extension...
+2025-11-29T13:37:06.649Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new ij (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120021)
+	at JS.U (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124631)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122125)
+	at Zy.g (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:41133)
+	at Zy.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:40637)
+	at Object.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:210:101000)
+	at closeEntirePythagoraExtension (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\extension.js:560:31)
+	at Object.deactivate (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\extension.js:427:15)
+	at kX.eb (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+	at file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+	at Array.map (<anonymous>)
+	at kX.$ (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+	at kX.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+	at nN.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Fs (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+	at MessagePortMain.<anonymous> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+	at Object.topLevelDomainCallback (node:domain:161:15)
+	at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+Extra context: {
+  "message": "Canceled"
+}
+2025-11-29T14:03:07.329Z INFO SharedStateManager initialized
+2025-11-29T14:03:07.445Z INFO Is remote: false
+2025-11-29T14:03:07.446Z INFO Starting Local. Installation path: e:\CDAC PREP 2025\CDAC\WPT
+2025-11-29T14:03:07.447Z INFO [MainProvider] Creating new MainProvider instance...
+2025-11-29T14:03:07.449Z INFO [TabsManager] Code view listener set up at initialization
+2025-11-29T14:03:07.451Z INFO Installation path exists: e:\CDAC PREP 2025\CDAC\WPT
+2025-11-29T14:03:07.453Z INFO Initializing database with URL: file:e:\CDAC PREP 2025\CDAC\WPT\pythagora-core\data\database\pythagora.db
+2025-11-29T14:03:07.462Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-11-29T14:03:07.462Z INFO Database initialized successfully
+2025-11-29T14:03:07.464Z INFO [Migration] Checking for database migration...
+2025-11-29T14:03:08.839Z INFO [Migration] No migration needed
+2025-11-29T20:11:01.839Z ERROR axios failed after all retries:
+Error: getaddrinfo ENOTFOUND api.pythagora.ai
+Stack: Error: getaddrinfo ENOTFOUND api.pythagora.ai
+	at AxiosError.from (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\node_modules\axios\dist\node\axios.cjs:857:14)
+	at RedirectableRequest.handleRequestError (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\node_modules\axios\dist\node\axios.cjs:3169:25)
+	at RedirectableRequest.emit (node:events:519:28)
+	at RedirectableRequest.emit (node:domain:489:12)
+	at eventHandlers.<computed> (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\node_modules\follow-redirects\index.js:49:24)
+	at ClientRequest.emit (node:events:531:35)
+	at ClientRequest.emit (node:domain:489:12)
+	at emitErrorEvent (node:_http_client:105:11)
+	at TLSSocket.socketErrorListener (node:_http_client:518:5)
+	at TLSSocket.emit (node:events:519:28)
+	at TLSSocket.emit (node:domain:489:12)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+	at Axios.request (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\node_modules\axios\dist\node\axios.cjs:4258:41)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\services\authService.js:19:67
+	at async withRetry (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\utils\axios.js:22:20)
+	at async Object.refreshTokens (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\services\authService.js:19:26)
+	at async Timeout._onTimeout (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\extension.js:297:13)
+Extra context: {
+  "code": "ENOTFOUND",
+  "message": "getaddrinfo ENOTFOUND api.pythagora.ai"
+}
+2025-11-29T20:11:02.440Z ERROR Token refresh failed:
+Error: getaddrinfo ENOTFOUND api.pythagora.ai
+Stack: Error: getaddrinfo ENOTFOUND api.pythagora.ai
+	at AxiosError.from (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\node_modules\axios\dist\node\axios.cjs:857:14)
+	at RedirectableRequest.handleRequestError (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\node_modules\axios\dist\node\axios.cjs:3169:25)
+	at RedirectableRequest.emit (node:events:519:28)
+	at RedirectableRequest.emit (node:domain:489:12)
+	at eventHandlers.<computed> (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\node_modules\follow-redirects\index.js:49:24)
+	at ClientRequest.emit (node:events:531:35)
+	at ClientRequest.emit (node:domain:489:12)
+	at emitErrorEvent (node:_http_client:105:11)
+	at TLSSocket.socketErrorListener (node:_http_client:518:5)
+	at TLSSocket.emit (node:events:519:28)
+	at TLSSocket.emit (node:domain:489:12)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+	at Axios.request (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\node_modules\axios\dist\node\axios.cjs:4258:41)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\services\authService.js:19:67
+	at async withRetry (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\utils\axios.js:22:20)
+	at async Object.refreshTokens (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\services\authService.js:19:26)
+	at async Timeout._onTimeout (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\extension.js:297:13)
+Extra context: {
+  "code": "ENOTFOUND",
+  "message": "getaddrinfo ENOTFOUND api.pythagora.ai"
+}
+2025-11-29T20:11:37.800Z INFO Closing entire Pythagora extension...
+2025-11-29T20:11:38.709Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new ij (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120021)
+	at JS.U (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124631)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122125)
+	at Zy.g (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:41133)
+	at Zy.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:40637)
+	at Object.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:210:101000)
+	at closeEntirePythagoraExtension (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\extension.js:560:31)
+	at Object.deactivate (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.9\out\extension.js:427:15)
+	at kX.eb (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+	at file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+	at Array.map (<anonymous>)
+	at kX.$ (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+	at kX.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+	at nN.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Fs (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+	at MessagePortMain.<anonymous> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+	at Object.topLevelDomainCallback (node:domain:161:15)
+	at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+Extra context: {
+  "message": "Canceled"
+}
+2025-12-01T17:48:20.779Z INFO SharedStateManager initialized
+2025-12-01T17:48:20.858Z INFO Is remote: false
+2025-12-01T17:48:20.860Z INFO Starting Local. Installation path: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-01T17:48:20.862Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-01T17:48:20.864Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-01T17:48:20.867Z INFO Installation path exists: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-01T17:48:20.869Z INFO Initializing database with URL: file:e:\CDAC PREP 2025\CDAC\WPT\pythagora-core\data\database\pythagora.db
+2025-12-01T17:48:20.879Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-01T17:48:20.880Z INFO Database initialized successfully
+2025-12-01T17:48:20.883Z INFO [Migration] Checking for database migration...
+2025-12-01T17:48:22.185Z INFO [Migration] No migration needed
+2025-12-01T17:51:49.549Z INFO [TabsManager] First file opened, triggering split view
+2025-12-01T17:51:50.283Z INFO [MainProvider] First file opened, creating split view
+2025-12-01T19:12:32.945Z INFO SharedStateManager initialized
+2025-12-01T19:12:33.677Z INFO Is remote: false
+2025-12-01T19:12:33.678Z INFO Starting Local. Installation path: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-01T19:12:33.679Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-01T19:12:33.681Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-01T19:12:34.563Z INFO Installation path exists: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-01T19:12:34.564Z INFO Initializing database with URL: file:e:\CDAC PREP 2025\CDAC\WPT\pythagora-core\data\database\pythagora.db
+2025-12-01T19:12:34.577Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-01T19:12:34.578Z INFO Database initialized successfully
+2025-12-01T19:12:34.580Z INFO [Migration] Checking for database migration...
+2025-12-01T19:12:45.789Z INFO [Migration] No migration needed
+2025-12-01T19:54:25.100Z INFO Closing entire Pythagora extension...
+2025-12-01T19:54:27.011Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new ij (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120021)
+    at JS.U (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124631)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122125)
+    at Zy.g (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:41133)
+    at Zy.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:40637)
+    at Object.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:210:101000)
+    at closeEntirePythagoraExtension (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.10\out\extension.js:560:31)
+    at Object.deactivate (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.10\out\extension.js:427:15)
+    at kX.eb (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+    at file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+    at Array.map (<anonymous>)
+    at kX.$ (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+    at kX.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+    at nN.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+    at Fs (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+    at MessagePortMain.<anonymous> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+    at MessagePortMain.emit (node:events:519:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.topLevelDomainCallback (node:domain:161:15)
+    at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+Extra context: {
+  "message": "Canceled"
+}
+2025-12-01T19:55:46.852Z INFO SharedStateManager initialized
+2025-12-01T19:55:47.009Z INFO Is remote: false
+2025-12-01T19:55:47.010Z INFO Starting Local. Installation path: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-01T19:55:47.011Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-01T19:55:47.012Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-01T19:55:47.014Z INFO Installation path exists: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-01T19:55:47.063Z INFO Initializing database with URL: file:e:\CDAC PREP 2025\CDAC\WPT\pythagora-core\data\database\pythagora.db
+2025-12-01T19:55:47.067Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-01T19:55:47.067Z INFO Database initialized successfully
+2025-12-01T19:55:47.068Z INFO [Migration] Checking for database migration...
+2025-12-01T19:55:48.016Z INFO [Migration] No migration needed
+2025-12-01T20:09:23.610Z INFO Closing entire Pythagora extension...
+2025-12-01T20:09:27.389Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new ij (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120021)
+	at JS.U (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124631)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122125)
+	at Zy.g (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:41133)
+	at Zy.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:40637)
+	at Object.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:210:101000)
+	at closeEntirePythagoraExtension (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.10\out\extension.js:560:31)
+	at Object.deactivate (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.10\out\extension.js:427:15)
+	at kX.eb (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+	at file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+	at Array.map (<anonymous>)
+	at kX.$ (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+	at kX.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+	at nN.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Fs (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+	at MessagePortMain.<anonymous> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+	at Object.topLevelDomainCallback (node:domain:161:15)
+	at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+Extra context: {
+  "message": "Canceled"
+}
+2025-12-01T20:56:56.582Z INFO SharedStateManager initialized
+2025-12-01T20:56:56.601Z INFO Is remote: false
+2025-12-01T20:56:56.603Z INFO Starting Local. Installation path: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-01T20:56:56.604Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-01T20:56:56.606Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-01T20:56:56.624Z INFO Installation path exists: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-01T20:56:56.626Z INFO Initializing database with URL: file:e:\CDAC PREP 2025\CDAC\WPT\pythagora-core\data\database\pythagora.db
+2025-12-01T20:56:56.689Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-01T20:56:56.692Z INFO Database initialized successfully
+2025-12-01T20:56:56.694Z INFO [Migration] Checking for database migration...
+2025-12-01T20:56:58.296Z INFO [Migration] No migration needed
+2025-12-01T21:01:10.082Z INFO Closing entire Pythagora extension...
+2025-12-01T21:01:10.572Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new ij (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120021)
+	at JS.U (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124631)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122125)
+	at Zy.g (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:41133)
+	at Zy.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:40637)
+	at Object.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:210:101000)
+	at closeEntirePythagoraExtension (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.10\out\extension.js:560:31)
+	at Object.deactivate (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.10\out\extension.js:427:15)
+	at kX.eb (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+	at file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+	at Array.map (<anonymous>)
+	at kX.$ (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+	at kX.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+	at nN.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Fs (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+	at MessagePortMain.<anonymous> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+	at Object.topLevelDomainCallback (node:domain:161:15)
+	at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+Extra context: {
+  "message": "Canceled"
+}
+2025-12-01T21:01:59.502Z INFO SharedStateManager initialized
+2025-12-01T21:01:59.620Z INFO Is remote: false
+2025-12-01T21:01:59.621Z INFO Starting Local. Installation path: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-01T21:01:59.623Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-01T21:01:59.624Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-01T21:01:59.627Z INFO Installation path exists: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-01T21:01:59.629Z INFO Initializing database with URL: file:e:\CDAC PREP 2025\CDAC\WPT\pythagora-core\data\database\pythagora.db
+2025-12-01T21:01:59.636Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-01T21:01:59.637Z INFO Database initialized successfully
+2025-12-01T21:01:59.639Z INFO [Migration] Checking for database migration...
+2025-12-01T21:02:00.139Z INFO [Migration] No migration needed
+2025-12-01T21:23:45.179Z INFO Closing entire Pythagora extension...
+2025-12-01T21:23:45.278Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new ij (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120021)
+	at JS.U (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124631)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122125)
+	at Zy.g (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:41133)
+	at Zy.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:40637)
+	at Object.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:210:101000)
+	at closeEntirePythagoraExtension (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.10\out\extension.js:560:31)
+	at Object.deactivate (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.10\out\extension.js:427:15)
+	at kX.eb (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+	at file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+	at Array.map (<anonymous>)
+	at kX.$ (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+	at kX.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+	at nN.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Fs (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+	at MessagePortMain.<anonymous> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+	at Object.topLevelDomainCallback (node:domain:161:15)
+	at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+Extra context: {
+  "message": "Canceled"
+}
+2025-12-02T03:23:39.946Z INFO SharedStateManager initialized
+2025-12-02T03:23:40.082Z INFO Is remote: false
+2025-12-02T03:23:40.083Z INFO Starting Local. Installation path: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-02T03:23:40.085Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-02T03:23:40.087Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-02T03:23:40.109Z INFO Installation path exists: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-02T03:23:40.110Z INFO Initializing database with URL: file:e:\CDAC PREP 2025\CDAC\WPT\pythagora-core\data\database\pythagora.db
+2025-12-02T03:23:40.170Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-02T03:23:40.171Z INFO Database initialized successfully
+2025-12-02T03:23:40.174Z INFO [Migration] Checking for database migration...
+2025-12-02T03:23:40.625Z INFO [Migration] No migration needed
+2025-12-02T03:24:45.489Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T03:24:45.943Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T03:24:46.113Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T03:24:46.113Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T03:24:46.690Z ERROR Failed to split editor into two columns, restoring to single window
+2025-12-02T03:24:46.766Z INFO Restoring to single window layout (resetOnBack)...
+2025-12-02T03:24:46.768Z INFO Finding Pythagora tab and closing everything else...
+2025-12-02T03:24:46.770Z WARN No exact "Pythagora" tab found
+2025-12-02T03:24:58.212Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T03:24:58.213Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T03:25:59.320Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T03:25:59.599Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T03:29:11.363Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T03:29:11.502Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T04:11:52.178Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T04:11:52.285Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T04:12:08.732Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T04:12:08.733Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T04:13:26.235Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T04:13:26.238Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T04:21:16.037Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T04:21:16.146Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T04:21:17.339Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T04:21:17.341Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T04:21:22.453Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T04:21:22.455Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T04:22:14.598Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T04:22:14.616Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T04:22:35.432Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T04:22:35.432Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T04:30:23.280Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T04:30:23.425Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T05:03:30.552Z INFO SharedStateManager initialized
+2025-12-02T05:03:30.590Z INFO Is remote: false
+2025-12-02T05:03:30.591Z INFO Starting Local. Installation path: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-02T05:03:30.592Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-02T05:03:30.593Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-02T05:03:30.594Z INFO Installation path exists: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-02T05:03:30.595Z INFO Initializing database with URL: file:e:\CDAC PREP 2025\CDAC\WPT\pythagora-core\data\database\pythagora.db
+2025-12-02T05:03:30.600Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-02T05:03:30.601Z INFO Database initialized successfully
+2025-12-02T05:03:30.603Z INFO [Migration] Checking for database migration...
+2025-12-02T05:03:31.517Z INFO [Migration] No migration needed
+2025-12-02T06:13:12.675Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T06:13:12.680Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T06:41:45.417Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T06:41:45.454Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T10:04:01.728Z INFO Closing entire Pythagora extension...
+2025-12-02T10:04:02.364Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new ij (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120021)
+	at JS.U (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124631)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122125)
+	at Zy.g (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:41133)
+	at Zy.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:40637)
+	at Object.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:210:101000)
+	at closeEntirePythagoraExtension (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.10\out\extension.js:560:31)
+	at Object.deactivate (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.10\out\extension.js:427:15)
+	at kX.eb (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+	at file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+	at Array.map (<anonymous>)
+	at kX.$ (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+	at kX.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+	at nN.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Fs (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+	at MessagePortMain.<anonymous> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+	at Object.topLevelDomainCallback (node:domain:161:15)
+	at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+Extra context: {
+  "message": "Canceled"
+}
+2025-12-02T10:11:55.842Z INFO Closing entire Pythagora extension...
+2025-12-02T10:11:56.259Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new ij (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120021)
+	at JS.U (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124631)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122125)
+	at Zy.g (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:41133)
+	at Zy.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:40637)
+	at Object.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:210:101000)
+	at closeEntirePythagoraExtension (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.10\out\extension.js:560:31)
+	at Object.deactivate (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.10\out\extension.js:427:15)
+	at kX.eb (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+	at file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+	at Array.map (<anonymous>)
+	at kX.$ (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+	at kX.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+	at nN.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Fs (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+	at MessagePortMain.<anonymous> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+	at Object.topLevelDomainCallback (node:domain:161:15)
+	at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+Extra context: {
+  "message": "Canceled"
+}
+2025-12-02T10:13:57.875Z INFO SharedStateManager initialized
+2025-12-02T10:13:58.019Z INFO Is remote: false
+2025-12-02T10:13:58.020Z INFO Starting Local. Installation path: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-02T10:13:58.023Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-02T10:13:58.026Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-02T10:13:58.031Z INFO Installation path exists: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-02T10:13:58.032Z INFO Initializing database with URL: file:e:\CDAC PREP 2025\CDAC\WPT\pythagora-core\data\database\pythagora.db
+2025-12-02T10:13:58.085Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-02T10:13:58.086Z INFO Database initialized successfully
+2025-12-02T10:13:58.088Z INFO [Migration] Checking for database migration...
+2025-12-02T10:13:58.798Z INFO [Migration] No migration needed
+2025-12-02T10:59:04.081Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T10:59:04.219Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T11:29:11.768Z INFO [TabsManager] First file opened, triggering split view
+2025-12-02T11:29:11.899Z INFO [MainProvider] First file opened, creating split view
+2025-12-02T13:22:44.512Z INFO Closing entire Pythagora extension...
+2025-12-02T13:22:44.882Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new ij (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120021)
+	at JS.U (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124631)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122125)
+	at Zy.g (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:41133)
+	at Zy.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:40637)
+	at Object.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:210:101000)
+	at closeEntirePythagoraExtension (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.12\out\extension.js:560:31)
+	at Object.deactivate (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.12\out\extension.js:427:15)
+	at kX.eb (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+	at file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+	at Array.map (<anonymous>)
+	at kX.$ (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+	at kX.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+	at nN.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Fs (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+	at MessagePortMain.<anonymous> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+Extra context: {
+  "message": "Canceled"
+}
+2025-12-02T17:04:59.988Z INFO SharedStateManager initialized
+2025-12-02T17:05:00.047Z INFO Is remote: false
+2025-12-02T17:05:00.048Z INFO Starting Local. Installation path: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-02T17:05:00.049Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-02T17:05:00.050Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-02T17:05:00.063Z INFO Installation path exists: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-02T17:05:00.064Z INFO Initializing database with URL: file:e:\CDAC PREP 2025\CDAC\WPT\pythagora-core\data\database\pythagora.db
+2025-12-02T17:05:00.103Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-02T17:05:00.104Z INFO Database initialized successfully
+2025-12-02T17:05:00.104Z INFO [Migration] Checking for database migration...
+2025-12-02T17:05:00.426Z INFO [Migration] No migration needed
+2025-12-02T17:46:13.732Z INFO Closing entire Pythagora extension...
+2025-12-02T17:46:14.072Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new ij (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120021)
+	at JS.U (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124631)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122125)
+	at Zy.g (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:41133)
+	at Zy.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:40637)
+	at Object.executeCommand (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:210:101000)
+	at closeEntirePythagoraExtension (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.12\out\extension.js:560:31)
+	at Object.deactivate (c:\Users\OFFICE\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.12\out\extension.js:427:15)
+	at kX.eb (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+	at file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+	at Array.map (<anonymous>)
+	at kX.$ (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+	at kX.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+	at nN.terminate (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Fs (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+	at MessagePortMain.<anonymous> (file:///c:/Users/OFFICE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+Extra context: {
+  "message": "Canceled"
+}
+2025-12-03T04:28:19.278Z INFO SharedStateManager initialized
+2025-12-03T04:28:19.355Z INFO Is remote: false
+2025-12-03T04:28:19.356Z INFO Starting Local. Installation path: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-03T04:28:19.361Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-03T04:28:19.365Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-03T04:28:19.368Z INFO Installation path exists: e:\CDAC PREP 2025\CDAC\WPT
+2025-12-03T04:28:19.370Z INFO Initializing database with URL: file:e:\CDAC PREP 2025\CDAC\WPT\pythagora-core\data\database\pythagora.db
+2025-12-03T04:28:19.439Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-03T04:28:19.440Z INFO Database initialized successfully
+2025-12-03T04:28:19.442Z INFO [Migration] Checking for database migration...
+2025-12-03T04:28:19.702Z INFO [Migration] No migration needed
