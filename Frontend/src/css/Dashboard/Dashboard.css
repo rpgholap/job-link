@@ -1,0 +1,24 @@
+.dashboard {
+  min-height: 100vh;
+}
+
+.logo,
+.logo-img,
+.portal-logo,
+.navbar-brand img {
+  width: 100px; /* desired width */
+  height: 100px; /* desired height */
+  max-width: 100%; /* prevents overflow on small screens */
+  object-fit: contain; /* preserve aspect ratio without cropping */
+  display: block;
+}
+/* Responsive: smaller logo on narrow viewports */
+@media (max-width: 768px) {
+  .logo,
+  .logo-img,
+  .portal-logo,
+  .navbar-brand img {
+    width: 120px;
+    height: 80px;
+  }
+}
